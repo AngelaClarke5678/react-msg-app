@@ -11,7 +11,7 @@ function App() {
   <h1>{message}</h1>
   <button onClick={handleClick}>Update the message</button>
   </div>
-  );
+  )
 }
 
 export default App;
